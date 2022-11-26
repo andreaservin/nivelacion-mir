@@ -1,5 +1,5 @@
 /**
- * Clase 6 - Ejercicios en javascript.
+ * Clase 7 - Ejercicios en javascript.
  */
 
 // Paso 4
